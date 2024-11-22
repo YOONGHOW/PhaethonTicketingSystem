@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PhaethonTicketingSystem")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dc50c394518509bda868a0dee5b5b49ec96e6707")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9aac01d31c72f165bba0820d9502503352060a8a")]
 [assembly: System.Reflection.AssemblyProductAttribute("PhaethonTicketingSystem")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PhaethonTicketingSystem")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
